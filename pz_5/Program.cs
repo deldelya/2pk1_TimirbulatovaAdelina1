@@ -30,7 +30,7 @@
 
 //}
 
-//for (int i = 5 , j = 100; j - i !=  9; i++ ,j --)
+//for (int i = 5, j = 100; j - i != 9; i++, j--)
 //{
-//    Console.WriteLine(i + "   " + j );
+//    Console.WriteLine(i + "   " + j);
 //}
