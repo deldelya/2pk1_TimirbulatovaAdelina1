@@ -1,0 +1,8 @@
+C:\Users\romka\source\repos\adelina\pz_15\bin\Debug\pz_15.exe.config
+C:\Users\romka\source\repos\adelina\pz_15\bin\Debug\pz_15.exe
+C:\Users\romka\source\repos\adelina\pz_15\bin\Debug\pz_15.pdb
+C:\Users\romka\source\repos\adelina\pz_15\obj\Debug\pz_15.csproj.AssemblyReference.cache
+C:\Users\romka\source\repos\adelina\pz_15\obj\Debug\pz_15.csproj.SuggestedBindingRedirects.cache
+C:\Users\romka\source\repos\adelina\pz_15\obj\Debug\pz_15.csproj.CoreCompileInputs.cache
+C:\Users\romka\source\repos\adelina\pz_15\obj\Debug\pz_15.exe
+C:\Users\romka\source\repos\adelina\pz_15\obj\Debug\pz_15.pdb
